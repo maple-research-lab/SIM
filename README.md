@@ -7,19 +7,20 @@
 
 <div align="center">
 
-
-[![SIM](https://img.shields.io/badge/Paper-SIM-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/xxx.xxx)&#160;
-[![Static Badge](https://img.shields.io/badge/SIM--DiT%20checkpoints-Model(0.6B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20SIM-DiT%20checkpoints)](https://huggingface.co/Alpha-VLLM/Lumina-Next-SFT-diffusers)&#160;
-[![Static Badge](https://img.shields.io/badge/-MIT-MIT?logoColor=%231082c3&label=Home%20Page&link=https%3A%2F%2Fgithub.com%2FAlpha-VLLM%2FLumina-T2X%2Fblob%2Fmain%2FLICENSE)](https://maple-aigc.github.io/EqDiff/)&#160;
+[![Static Badge](https://img.shields.io/badge/-MAPLE--Lab-MAPLE--Lab?logoColor=%231082c3&label=Home%20Page&link=https%3A%2F%2Fgithub.com%2FMAPLE_AIGC)](https://maple-aigc.github.io)&#160;
 [![weixin](https://img.shields.io/badge/-WeChat@MAPLE实验室-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/UefnjlCSi6YvzVe-Xu9jjQ)
 
+
+
+[![SIM](https://img.shields.io/badge/Paper-SIM-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/xxx.xxx)&#160;
+[![Static Badge](https://img.shields.io/badge/SIM--DiT%20checkpoints-Model(0.6B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20SIM-DiT%20checkpoints)](https://huggingface.co/xxxx)&#160;
+[![Static Badge](https://img.shields.io/badge/-Project%20Page-orange?logo=healthiness&logoColor=1D9BF0)](https://maple-aigc.github.io/SIM)&#160;
 
 
 </div>
 
 ![intro_large](figs/final_img.png)
 
-<!-- [[中文版本]](./README_cn.md) -->
 
 ## 🚀 Quick Start
 
