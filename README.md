@@ -21,9 +21,15 @@
 
 ![intro_large](figs/final_img.png)
 
+## Overview
 
-## 🚀 Quick Start
+This repository contains inference-only code for our work, SIM, a cutting-edge approach for distilling pre-trained diffusion models into efficient one-step generators. Unlike traditional models that require multiple sampling steps, SIM achieves high-quality sample generation without needing training samples for distillation. It effectively computes gradients for various score-based divergences, resulting in impressive performance metrics: an FID of 2.06 for unconditional generation and 1.96 for class-conditional generation on the CIFAR10 dataset. Additionally, SIM has been applied to a state-of-the-art transformer-based diffusion model for text-to-image generation, achieving an aesthetic score of 6.42 and outperforming existing one-step generators. 
 
+## Released Models
+
+We released two models, one for reproduce the metrics results in our paper, another one has been trained for more steps with better generation quality.
+
+## Inference
 
 ```bash
 python inference.py \
@@ -35,14 +41,30 @@ python inference.py \
 --batch 4 --seed 112 --dtype bf16 --device cuda --init_sigma 2.5
 ```
 
+## More Samples
+
+xxx
+
+## License
+
+"One-Step Diffusion Distillation through Score Implicit Matching" is released under Affero General Public License v3.0
+
+## Acknowledgements
+
+Zhengyang Geng is supported by funding from the Bosch Center for AI. Zico Kolter gratefully
+acknowledges Bosch’s funding for the lab.
+
+We also acknowledge the authors of Diff-Instruct and Score-identity Distillation for their great
+contributions to high-quality diffusion distillation Python code. We appreciate the authors of PixelArt-
+α for making their DiT-based diffusion model public.
 
 ## 📄 Citation
 
 ```
-@article{xxx,
+@article{luo2024sim,
   title={One-Step Diffusion Distillation through Score Implicit Matching},
-  author={xxx},
-  journal={xxx,
+  author={Luo, Weijian and Huang, Zemin and Geng, Zhengyang and J. Zico Kolter and Qi, Guojun},
+  journal={Advances in Neural Information Processing Systems},
   year={2024}
 }
 ```
