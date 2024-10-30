@@ -3,7 +3,7 @@
  <br>
 </p> -->
 
-One-Step Diffusion Distillation through Score Implicit Matching
+# One-Step Diffusion Distillation through Score Implicit Matching
 
 <div align="center">
 
