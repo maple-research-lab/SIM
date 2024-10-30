@@ -12,8 +12,8 @@
 
 
 
-[![SIM](https://img.shields.io/badge/Paper-SIM-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/xxx.xxx)&#160;
-[![Static Badge](https://img.shields.io/badge/SIM--DiT%20checkpoints-Model(0.6B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20SIM-DiT%20checkpoints)](https://huggingface.co/xxxx)&#160;
+[![SIM](https://img.shields.io/badge/Paper-SIM-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2410.16794)&#160;
+[![Static Badge](https://img.shields.io/badge/SIM--DiT%20checkpoints-Model(0.6B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20SIM-DiT%20checkpoints)](https://huggingface.co/Fetchniche/SIM)&#160;
 [![Static Badge](https://img.shields.io/badge/-Project%20Page-orange?logo=healthiness&logoColor=1D9BF0)](https://maple-aigc.github.io/SIM)&#160;
 
 
@@ -41,13 +41,9 @@ python inference.py \
 --batch 4 --seed 112 --dtype bf16 --device cuda --init_sigma 2.5
 ```
 
-## More Samples
-
-xxx
-
 ## License
 
-"One-Step Diffusion Distillation through Score Implicit Matching" is released under Affero General Public License v3.0
+One-Step Diffusion Distillation through Score Implicit Matching is released under Affero General Public License v3.0
 
 ## Acknowledgements
 
@@ -61,10 +57,10 @@ contributions to high-quality diffusion distillation Python code. We appreciate 
 ## 📄 Citation
 
 ```
-@article{luo2024sim,
+@article{luo2024one,
   title={One-Step Diffusion Distillation through Score Implicit Matching},
-  author={Luo, Weijian and Huang, Zemin and Geng, Zhengyang and J. Zico Kolter and Qi, Guojun},
-  journal={Advances in Neural Information Processing Systems},
+  author={Luo, Weijian and Huang, Zemin and Geng, Zhengyang and Kolter, J Zico and Qi, Guo-jun},
+  journal={arXiv preprint arXiv:2410.16794},
   year={2024}
 }
 ```
