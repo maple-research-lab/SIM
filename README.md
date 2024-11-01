@@ -14,7 +14,7 @@
 
 [![SIM](https://img.shields.io/badge/Paper-SIM-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2410.16794)&#160;
 [![Static Badge](https://img.shields.io/badge/SIM--DiT%20checkpoints-Model(0.6B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20SIM-DiT%20checkpoints)](https://huggingface.co/Fetchniche/SIM)&#160;
-[![Static Badge](https://img.shields.io/badge/-Project%20Page-orange?logo=healthiness&logoColor=1D9BF0)](https://maple-aigc.github.io/SIM)&#160;
+<!--[![Static Badge](https://img.shields.io/badge/-Project%20Page-orange?logo=healthiness&logoColor=1D9BF0)](https://maple-aigc.github.io/SIM)&#160; -->
 
 
 </div>
