@@ -54,6 +54,10 @@ We also acknowledge the authors of Diff-Instruct and Score-identity Distillation
 contributions to high-quality diffusion distillation Python code. We appreciate the authors of PixelArt-
 α for making their DiT-based diffusion model public.
 
+## Collaboration
+
+For collaboration inquiries, please contact [Guo-jun Qi](guojunq@gmail.com).
+
 ## 📄 Citation
 
 ```
