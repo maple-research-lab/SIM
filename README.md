@@ -27,7 +27,7 @@ This repository contains inference-only code for our work, SIM, a cutting-edge a
 
 ## Released Models
 
-We released our model that has been trained for more steps with better generation quality. please visit https://huggingface.co/Fetchniche/SIM for checkpoint.
+We released our model that has been trained for more steps with better generation quality. please visit https://huggingface.co/maple-research-lab/SIM for checkpoint.
 
 ## Inference
 
