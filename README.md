@@ -56,7 +56,7 @@ contributions to high-quality diffusion distillation Python code. We appreciate 
 
 ## Collaboration
 
-For collaboration inquiries, please contact Guo-jun Qi: guojunq at gmail dot com
+For inquiries regarding accessing our latest models or collaboration, please contact Guo-jun Qi: guojunq at gmail dot com
 
 ## 📄 Citation
 
